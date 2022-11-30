@@ -19,8 +19,9 @@
 
 1. Clone this repo
 2. Execute `src/main/resources/init.db` to get actual database model
-3. Create new branch & make changes 🚀
-4. Don't forget to use `mvn clean verify package` before pushing!
+3. Add tomcat configuration to run & test application
+4. Create new branch & make changes 🚀
+5. Don't forget to use `mvn clean verify package` before pushing!
 
 ## Database UML diagram
 ![img.png](uml.png)
