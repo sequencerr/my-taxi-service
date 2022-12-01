@@ -9,17 +9,16 @@ Used 3-layer project architecture. Packaging into war using maven
 - Getting and Updating information about current drivers, cars and their manufacturer
 
 ### Used Technologies
-| ver.   | Name                     |
-|--------|--------------------------|
-| 9.0.69 | Tomcat                   |
-| -      | JavaServer Pages (JSP)   |
-| 4.0.1  | Servlets                 |
-| -      | JDBC                     |
-| 42.5.1 | PostgreSQL Driver        |
-| 15.1   | PostgreSQL Server (win)  |
-| 1.2    | JSTL for jsp tags        |
-| 3.8.6  | mvn                      |
-| 17.0.4 | jdk                      |
+| Name                     | ver.   |
+|--------------------------|--------|
+| Tomcat                   | 9.0.69 |
+| JavaServer Pages (JSP)   | -      |
+| Servlets                 | 4.0.1  |
+| JDBC                     | -      |
+| PostgreSQL Server (win)  | 15.1   |
+| JSTL for jsp tags        | 1.2    |
+| mvn                      | 3.8.6  |
+| jdk                      | 17.0.4 |
 
 ### Contribution / Running on your machine
 
